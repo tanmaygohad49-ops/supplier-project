@@ -36,5 +36,4 @@ uvicorn api:app --reload
 - GET /products → Returns cleaned product data
 
 ## Output
-## Output
 Returns 60+ structured products with price and stock info via API.
