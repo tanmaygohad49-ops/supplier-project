@@ -36,4 +36,5 @@ uvicorn api:app --reload
 - GET /products → Returns cleaned product data
 
 ## Output
-Returns structured supplier/product data in JSON format for business use.
+## Output
+Returns 60+ structured products with price and stock info via API.
